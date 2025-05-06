@@ -1,0 +1,4 @@
+numpy==1.26.4 --only-binary=numpy
+pandas==1.5.3
+boto3==1.26.0
+pyspark==3.3.1
